@@ -1,0 +1,11 @@
+echo "Enter your name"
+read name
+echo "Enter your company name"
+read company_name
+echo "Enter your Date of birth"
+read DOB
+
+echo "**********************"
+echo "Your name is :$name"
+echo "Your company name :$company_name"
+echo "Enter your birthdate :$DOB"
