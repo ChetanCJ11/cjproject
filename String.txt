@@ -4,3 +4,9 @@ to branching in GIT
 We can switch to branch by git branch 
 create new branch --> git checkout -b (branch name )
 
+create pull request in the file 
+
+we can add tags in git 
+1. Lightweight tag
+2. Annoted tags
+
